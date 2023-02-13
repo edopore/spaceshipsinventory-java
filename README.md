@@ -1,6 +1,6 @@
 # Workshop No. 2
 ## Space Ship Inventory
-This is a simple project made in JAVA to develop an inventory of space ships, based on the following link [Link](https://moaramore.com/2016/05/14/clasificacion-de-las-naves-espaciales/)
+This is a simple project made in JAVA to develop an inventory of space ships, based on the following [Link](https://moaramore.com/2016/05/14/clasificacion-de-las-naves-espaciales/)
 I made the following classification:
 - Launcher
 - Unmanned Ship
